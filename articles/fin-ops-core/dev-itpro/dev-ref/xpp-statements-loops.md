@@ -101,9 +101,9 @@ public boolean isLate()
 }
 ```
 
-## <a name="unsupported-statements-changesite-pause-and-window"></a>構文はサポートされていません: changeSite、一時停止、およびウィンドウ
+## <a name="unsupported-statements-pause-and-window"></a>構文はサポートされていません:「一時停止」と「およびウィンドウ」
 
-**changeSite**、**pause**、**window** キーワードは、X++ 言語の一部ではなくなりました。 これらのキーワードを使用すると、コンパイル エラーが発生します。
+**pause**　と　**window** キーワードは、X++ 言語の一部ではなくなりました。 これらのキーワードを使用すると、コンパイル エラーが発生します。
 
 ## <a name="ignored-statements-server-and-client"></a>無視されたステートメント: サーバーおよびクライアント
 
