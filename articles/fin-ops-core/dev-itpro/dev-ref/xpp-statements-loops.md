@@ -101,7 +101,7 @@ public boolean isLate()
 }
 ```
 
-## <a name="unsupported-statements-pause-and-window"></a>構文はサポートされていません:「一時停止」と「およびウィンドウ」
+## <a name="unsupported-statements-pause-and-window"></a>構文はサポートされていません:「pause」と「window」
 
 **pause**　と　**window** キーワードは、X++ 言語の一部ではなくなりました。 これらのキーワードを使用すると、コンパイル エラーが発生します。
 
